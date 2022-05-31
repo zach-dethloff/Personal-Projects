@@ -1,0 +1,4 @@
+Beams:eCM = 13000
+// ttbar
+Top:gg2ttbar = on
+Top:qqbar2ttbar = on
